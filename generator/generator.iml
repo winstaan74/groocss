@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module relativePaths="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output/>
+    <orderEntry type="inheritedJdk"/>
+    <content url="file://$MODULE_DIR$/">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/groovy" isTestSource="false"/>
+      <sourceFolder url="file://$MODULE_DIR$/src/test/groovy" isTestSource="true"/>
+      <excludeFolder url="file://$MODULE_DIR$/.gradle"/>
+      <excludeFolder url="file://$MODULE_DIR$/build"/>
+    </content>
+    <orderEntry type="sourceFolder" forTests="false"/>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-json/2.4.12/810b46f2b359b904c4c7428ad4c03c09094a01ff/groovy-json-2.4.12.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-json/2.4.12/33002ede4238d8925a84d234697720851c429391/groovy-json-2.4.12-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-templates/2.4.12/dc1e3e1546dd19457aa4f2bdba57d35089721ed8/groovy-templates-2.4.12.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-templates/2.4.12/9009a34ea167027205a6f025bdab45aea14e7f8b/groovy-templates-2.4.12-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-xml/2.4.12/b5c023bbbc8a4bbf9c0b38d731fe31d53f00c64a/groovy-xml-2.4.12.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-xml/2.4.12/29c8fce1be5c700262e8e3f5ebbf93be994b7892/groovy-xml-2.4.12-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.4.12/db7ff8f014c41ba7765822092da8e127fc548baf/groovy-2.4.12-indy.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.4.12/5588d177f5427312a68cd2589545fc58f4513b9b/groovy-2.4.12-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.4.12/a43be367110c491787219f1c128b5b5fc54f1e70/groovy-2.4.12.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.4.12/5588d177f5427312a68cd2589545fc58f4513b9b/groovy-2.4.12-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.asciidoctor/asciidoctorj/1.5.4.1/f7ddfb2bbed2f8da3f9ad0d1a5514f04b4274a5a/asciidoctorj-1.5.4.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.asciidoctor/asciidoctorj/1.5.4.1/5514a670d96cf6e3761a521aed648936299e6661/asciidoctorj-1.5.4.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.jruby/jruby-complete/1.7.25/8eb234259ec88edc05eedab05655f458a84bfcab/jruby-complete-1.7.25.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.jruby/jruby-complete/1.7.25/8c290b4a70d0cb31bbab2b2dd73358c117293976/jruby-complete-1.7.25-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/com.beust/jcommander/1.35/47592e181b0bdbbeb63029e08c5e74f6803c4edd/jcommander-1.35.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/com.beust/jcommander/1.35/a80acda9d5c2aa80afb8b6f858968b24a178f4bc/jcommander-1.35-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-json/2.4.12/810b46f2b359b904c4c7428ad4c03c09094a01ff/groovy-json-2.4.12.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-json/2.4.12/33002ede4238d8925a84d234697720851c429391/groovy-json-2.4.12-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-templates/2.4.12/dc1e3e1546dd19457aa4f2bdba57d35089721ed8/groovy-templates-2.4.12.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-templates/2.4.12/9009a34ea167027205a6f025bdab45aea14e7f8b/groovy-templates-2.4.12-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-xml/2.4.12/b5c023bbbc8a4bbf9c0b38d731fe31d53f00c64a/groovy-xml-2.4.12.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-xml/2.4.12/29c8fce1be5c700262e8e3f5ebbf93be994b7892/groovy-xml-2.4.12-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.4.12/db7ff8f014c41ba7765822092da8e127fc548baf/groovy-2.4.12-indy.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.4.12/5588d177f5427312a68cd2589545fc58f4513b9b/groovy-2.4.12-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.4.12/a43be367110c491787219f1c128b5b5fc54f1e70/groovy-2.4.12.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.4.12/5588d177f5427312a68cd2589545fc58f4513b9b/groovy-2.4.12-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.asciidoctor/asciidoctorj/1.5.4.1/f7ddfb2bbed2f8da3f9ad0d1a5514f04b4274a5a/asciidoctorj-1.5.4.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.asciidoctor/asciidoctorj/1.5.4.1/5514a670d96cf6e3761a521aed648936299e6661/asciidoctorj-1.5.4.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.jruby/jruby-complete/1.7.25/8eb234259ec88edc05eedab05655f458a84bfcab/jruby-complete-1.7.25.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.jruby/jruby-complete/1.7.25/8c290b4a70d0cb31bbab2b2dd73358c117293976/jruby-complete-1.7.25-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/com.beust/jcommander/1.35/47592e181b0bdbbeb63029e08c5e74f6803c4edd/jcommander-1.35.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/com.beust/jcommander/1.35/a80acda9d5c2aa80afb8b6f858968b24a178f4bc/jcommander-1.35-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-json/2.4.12/810b46f2b359b904c4c7428ad4c03c09094a01ff/groovy-json-2.4.12.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-json/2.4.12/33002ede4238d8925a84d234697720851c429391/groovy-json-2.4.12-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-templates/2.4.12/dc1e3e1546dd19457aa4f2bdba57d35089721ed8/groovy-templates-2.4.12.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-templates/2.4.12/9009a34ea167027205a6f025bdab45aea14e7f8b/groovy-templates-2.4.12-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-xml/2.4.12/b5c023bbbc8a4bbf9c0b38d731fe31d53f00c64a/groovy-xml-2.4.12.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-xml/2.4.12/29c8fce1be5c700262e8e3f5ebbf93be994b7892/groovy-xml-2.4.12-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.4.12/db7ff8f014c41ba7765822092da8e127fc548baf/groovy-2.4.12-indy.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.4.12/5588d177f5427312a68cd2589545fc58f4513b9b/groovy-2.4.12-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.4.12/a43be367110c491787219f1c128b5b5fc54f1e70/groovy-2.4.12.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.4.12/5588d177f5427312a68cd2589545fc58f4513b9b/groovy-2.4.12-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.asciidoctor/asciidoctorj/1.5.4.1/f7ddfb2bbed2f8da3f9ad0d1a5514f04b4274a5a/asciidoctorj-1.5.4.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.asciidoctor/asciidoctorj/1.5.4.1/5514a670d96cf6e3761a521aed648936299e6661/asciidoctorj-1.5.4.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.jruby/jruby-complete/1.7.25/8eb234259ec88edc05eedab05655f458a84bfcab/jruby-complete-1.7.25.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/org.jruby/jruby-complete/1.7.25/8c290b4a70d0cb31bbab2b2dd73358c117293976/jruby-complete-1.7.25-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/com.beust/jcommander/1.35/47592e181b0bdbbeb63029e08c5e74f6803c4edd/jcommander-1.35.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///home/adavis/.gradle/caches/modules-2/files-2.1/com.beust/jcommander/1.35/a80acda9d5c2aa80afb8b6f858968b24a178f4bc/jcommander-1.35-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+  <component name="ModuleRootManager"/>
+</module>

@@ -1,0 +1,9 @@
+
+[[Groocss0.8releasenotes]]
+== DSL Improvements
+
+* New "styles" method for created unattached styles (re: issue #3)
+* Added varieties of convert and process that take String, In/OutputStreams, and Reader/PrintWriter (re: issue #2)
+* Added limited support for using spaces and ~ syntax in Selector definition (limited to two elements)
+* (No longer needs Java 8, just Java 7)
+

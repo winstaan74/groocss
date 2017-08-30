@@ -1,80 +1,23 @@
-/**
-   Copyright 2016, Adam L. Davis
+// Grab the plugin from a Maven Repo automatically
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.yahoo.platform.yui:yuicompressor:2.4.7'
+    }
+}
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
-*/
 plugins {
-    id "org.groocss.groocss-gradle-plugin" version "0.10.1"
-    id "java"
-    id "groovy"
-}
-def cssDir = "stylesheets/"
-
-groocss {
-    charset = 'UTF-8'
-    prettyPrint = true
-    convertUnderline = true
-}
-groocssfiles {
-    allfiles {
-        inFile = file('src/main/groovy/')
-        outFile = file("$cssDir")
-    }
+    id 'com.gradle.build-scan' version '1.0'
 }
 
-ext {
-    groocssVer = "0.10.1"
-}
-configurations {
-    sources
-}
-repositories {
-    mavenLocal()
-    jcenter()
-}
-dependencies {
-    compile "org.groocss:groocss:$groocssVer"
-    sources "org.groocss:groocss:$groocssVer:sources"
-}
-sourceSets {
-    main {
-        groovy {
-            srcDir(file("sources"))
-        }
-    }
+buildScan {
+    licenseAgreementUrl = 'https://gradle.com/terms-of-service'
+    licenseAgree = 'yes'
 }
 
-task buildDocs(type: Groovydoc, dependsOn: 'unzipSources', description: 'Builds the groovy docs') {
-    destinationDir = file("docs/$groocssVer")
-    docTitle = "GrooCSS $groocssVer"
-    classpath = sourceSets.main.output + sourceSets.main.compileClasspath
-    link 'http://docs.oracle.com/javase/7/docs/api/', 'java.util', 'java.lang', 'java.awt', 'java.math', 'java.io'
-    link 'http://docs.groovy-lang.org/latest/html/api/', 'groovy.lang', 'groovy.transform', 'groovy.json'
-    source "sources"
+allprojects {
+    apply plugin: 'idea'
 }
-
-task unzipSources(type: Copy, description: 'Unzips all the source files') {
-    def zipPath = project.configurations.sources.find { it.name.startsWith('groo') }
-    def zipFile = file(zipPath)
-    def outDir = file("sources")
-
-    from zipTree(zipFile)
-    into outDir
-}
-
-task beforeCss doLast {
-    file(cssDir).mkdirs()
-	println 'Processing groocss'
-}
-tasks['convertCss'].dependsOn beforeCss
 

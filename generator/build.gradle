@@ -1,0 +1,17 @@
+apply plugin: 'groovy'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    ext.groovyVersion = '2.4.12'
+    ext.asciidocVersion = '1.5.4.1'
+    compile "org.codehaus.groovy:groovy:$groovyVersion"
+    compile "org.codehaus.groovy:groovy-json:$groovyVersion"
+    compile "org.codehaus.groovy:groovy-templates:$groovyVersion"
+    compile "org.asciidoctor:asciidoctorj:$asciidocVersion"
+}
+
+compileGroovy.sourceCompatibility = '1.7'
+compileGroovy.targetCompatibility = '1.7'

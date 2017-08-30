@@ -1,0 +1,10 @@
+(Material on this page is still under development!)
+
+
+[[Groocss0.10releasenotes]]
+== DSL Improvements
+
+* Added option (convertUnderline) to convert all underlines in style-classes to dashes.
+* Added ability to use three or more element selectors without xor.
+* Added ability to configure to use some element names as style-classes just in case you need “main” for example to be used as a style-class.
+* Added ability to use 0x numbers as colors (color 0xabcdef for example)

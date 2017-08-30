@@ -1,0 +1,22 @@
+
+[[Groocss0.7releasenotes-Measures]]
+== Measurement support
+
+* Measurements are now fully supported including math between different compatible types.
+* Some measurement values are validated (for example, passing 10.deg to maxWidth will throw an AssertionError).
+
+
+[[Groocss0.7releasenotes-Mod]]
+== Psuedo-class Support
+
+* Better pseudo-class support with %
+* %odd and %even and %nthChild() all work.
+
+
+[[Groocss0.7releasenotes-GradlePlugin]]
+== New Gradle Plugin
+
+* Added link:https://plugins.gradle.org/plugin/org.groocss.groocss-gradle-plugin[Gradle Plugin]
+* Available groocss configuration in gradle build.
+* Available Gradle task to override for custom builds.
+

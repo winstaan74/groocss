@@ -1,0 +1,8 @@
+
+[[Groocss0.9releasenotes]]
+== New Color Altering Methods
+
+* Added mix, tint, shade, and greyscale methods.
+* Added saturate, desaturate, fadein, fadeout, fade, and hue, saturation and brightness methods.
+* Added many colors methods: rgba, hsl, hsla, lighten, darken, etc.
+
